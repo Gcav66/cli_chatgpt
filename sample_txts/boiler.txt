@@ -1,0 +1,1184 @@
+pretty much and thank you all for
+joining us again today's webinar centers
+on a common problem faced by engineers
+and contractors and owners who are
+dealing with an exasperated situation or
+situations that are associated with
+improper border venting the causes are
+varied leading to an array of damaging
+and expensive consequences which if the
+causes were better understood upfront
+that they could be avoided so during
+this webinar today we're going to be for
+time purposes we're going to limit our
+discussion to force draft natural
+gas-fired commercial and industrial
+borders both condensing and the
+non-condensing type we're going to first
+look at the problems associated with
+poor venting systems and then discuss
+the major causes so problems first then
+the cause is associated with these
+problems well then get into the proper
+design considerations and conclude with
+Chuck solving two specific exhausting
+problem scenarios and they of course
+would incorporate some of the design
+principles that I'll be discussing
+before he gets into the scenarios so
+beginning with the problems caused by
+improper boiler exhaust venting the when
+we consider improperly engineered new or
+existing systems which have been changed
+or attitude without considering the
+increased mass flow and the temperature
+associated with these changes we're
+going to run into problems such as you
+see here so these are the common
+problems efficiency loss boiler damage
+increase border maintenance and so on
+and it's because we're not taking
+certain things into consideration when
+we are laying this this breaching and
+stack system out so if we take a look at
+at the first three efficiency loss
+boiler damage and increased border
+maintenance
+let's just concentrate on those first
+when we see that we've got efficiency
+loss and I keep driving this home in our
+seminars we've got to remember that a
+border will consume four times its
+initial cost in fuel consumption a year
+that kind of puts things in perspective
+so you may ask well okay that's fine
+Steve but how does border venting
+reaching and stack sizing affect
+efficiency and that's a good question so
+let's look at that here you see a border
+we took a picture of this
+this border was in excellent condition
+as a matter of fact about a month or two
+before this border was opened and you
+see what you see here it was tuned up
+proper fuel air ratio everything was
+fine you can take a look at the rear
+door here there's no signs of cracking
+or anything else this border was
+well-maintained and it was tuned up what
+they did is they added another border
+downstream of it they ducted it into the
+breaching before it hit the stack and
+this caused a lot of back pressure
+because we had increased mass flow in
+that breaching it caused a huge pressure
+drop resistance to flow that impacted
+the fuel-air ratio and we started
+setting up now you can't see it very
+well here in this slide but what
+happened is we overheated that pressure
+vessel and those tubes began to push
+away from the weld and crack so it led
+to a pressure vessel repair that you see
+here because of that suit being
+deposited on the heat transfer surfaces
+it impeded the heat transfer and as a
+result the pressure vessel loaded
+overheated the tubes extended and the
+welds cracked now another thing that we
+have to concern ourselves with is
+condensation that will build up in the
+breaching or the stack that can an
+impact not just the breaching in stack
+itself if it's not of the proper
+material but also the boiler itself if
+you take a look here you see the vent
+outlet
+which is welded to the shell extension
+of this fire - boiler the hot gases come
+out and go up through this vent if we
+get into a condensing situation this is
+carbon steel it's going to begin to
+corrode not just the vent but the border
+extension itself so here you see a good
+shot of that of that border vent coming
+out of the shell extension right here
+you can see it's carbon steel and how it
+could definitely corrode with
+condensation building up and dripping
+down now the next thing is we want to
+three things that we want to look at is
+damage breaching and stacks production
+downtime and increased operating cost
+these are the problems that we're facing
+now with a poorly designed stack and
+breaching arrangement if we use the
+wrong material for the stack itself this
+can lead to some serious problems not
+just in terms of repair but downtime I
+can't tell you the number of instances
+that I've seen carbon steel breaching
+and stack being used for boilers that
+get into very very close condensing
+situations and have some real problems
+at the result so and that's got to be
+replaced various sections have to
+replace obviously the boiler is down and
+if you don't have standby your
+production also is impeded so downtime
+becomes a real problem and it's can be
+directly associated with stacks another
+problem that can lead to downtime is as
+you increase that pressure in the stack
+and breaching you've got that in that
+pressure now being imposed upon the
+burner itself we get into pilot problems
+we also get into situations where we
+have flameouts if that restriction is
+large enough so those are other problems
+that can can lead to not just
+maintenance issues but expensive
+downtime is as well
+so if we take a look and we're in a very
+very competitive situation in this
+country today it's it's a world economy
+that we deal in manufacturers
+industrials have to control their costs
+and if you take a look at the total
+spend as far as operating expenses in a
+plant are concerned you can see that one
+of the biggest contributors to cost of
+course is fuel the thing that we have to
+keep in mind that a boiler system is
+like a body and if any one of the organs
+in the body is compromised in any way
+the body itself of course does not
+function properly the same with a border
+system the stack and breaching are just
+as much a part of the system as the
+burner is as the controls are it's
+extremely important so it impacts fuel
+it also impacts services in and out the
+supplies the repairs and improvements
+all of these cost areas can be impacted
+by improper stack and breaching design
+so what are the causes of the major
+problems well there's a number of causes
+and the first thing that we're going to
+be looking at today would be poor design
+under undersized for the duty borders
+have been added too much resistance so
+we'll be looking at these three right
+here boiler is added undersized for for
+the duty and towards design let's look
+at those first here is a good example of
+here's a good example of a breaching
+arrangement that has certainly not been
+laid out properly
+you can see that we've got a appliance
+here and then we're coming across with a
+common breaching picking up a couple of
+units and not enlarging that breaching
+as we increase the mass flow so that is
+a telltale sign right there that we're
+going to have
+some significant problems as far as
+overpressure is concerned now here's
+another situation where we you can see
+we've got a carbon steel stack here but
+that's not really the issue the issue is
+that I've got a boiler here that was put
+in and then another one was added and if
+you look closely we do not have any
+expanders here
+there's no expander before it goes into
+the vertical stack itself now in this
+particular case that's not a problem and
+the reason is because the vertical stack
+to which this breaching is connected and
+these two borders are being vented into
+is tall enough to overcome that
+resistance so we still have enough
+negative to be able to vent the products
+of combustion
+what about environmental variances
+external conditions and external
+conditions those those two just before
+wrong material here you see a situation
+where we've got a tall stack as a matter
+of fact those two boilers that I just
+showed you before that are being ducted
+commonly into that breaching and then
+into the stack this is the stack right
+here now should it have should it have a
+cap on it here's the problem we've got a
+number of conditions that will impact
+the amount of draft the pressure density
+differential within the stack itself
+things like ambient temperature relative
+humidity wind velocities and barometric
+barometric pressure so the design
+engineer when he's looking at laying out
+or she's looking at laying out a
+breaching and stack arrangement they
+take these things into consideration to
+make sure that we've got zero to
+slightly negative at the vent stubs of
+these boilers to be able to adequately
+vent the products of combustion here you
+see if if we put a stacks here's another
+problem this this would be an external
+condition let's say that we were coming
+through this this
+the ceiling right here of this roof
+right here with a stack where the arrow
+is pointing notice this this column next
+to it this could induce a downdraft so
+that would have to be taken into
+consideration either we would take that
+stack up above this column a couple of
+stories higher or we would have to have
+certainly a cap on top of it but then
+remember that as soon as we put a cap on
+top of a stack we've now introduced
+another restriction we've got a 90
+degree Bend now that those products of
+combustion which is nothing more than a
+fluid have to bend and of course when
+they when they when they turn to go out
+underneath that tap
+that's another resistance and we'll add
+linear feet to the overall calculation
+so what about the wrong material that's
+another common cause of problems
+maintenance problems downtime and so on
+when we look at the venting material for
+boilers we can break them into four
+categories we've got category 1 which
+would be atmospheric really an
+atmospheric type condition where you've
+got a total negative within the within
+the stack and breaching all the time and
+it's non condensing and we've got
+category 2 which could be pressurized
+but also non-condensing category 3 would
+be positive vent pressure but
+non-condensing so many fire tube and
+water tube borders would fall under that
+category especially when you're talking
+about process steam they're going if
+you've got a forced draft of order
+burner combination it is going to be
+venting into a category 3 vent
+arrangement if you will
+it'll be non condensing but pressurized
+because it's got a fourth draft burner
+if we get into condensing boilers hot
+hot water
+hydronic heating that's going to be a
+category 4 because they are designed to
+condense so the the 3 category 2
+categories that we are going to be
+be concentrating on today for time
+reasons will be the category three in
+category 4 so pressurized non-condensing
+category 3 and category 4 which will be
+condensing and pressurized positive
+event now looking at some examples of
+those we see we have a category 3 which
+would be this particular border of flex
+tube water to border flex water to
+border
+got a power burner we're talking
+category 3 because it is positive
+pressure and non-condensing this border
+right here is a hot water border but it
+is near a condensing in other words it's
+about probably operating around 87 88
+percent fuel to water efficiency so
+you're going to have a certain amount of
+condensing in that particular situation
+so we would go with a category 4
+material because of that condensing
+possibility and the possibility of
+corrosion if we don't have stainless
+steel material that would be coming in
+contact with that flue gas and here's
+another category 4 this is a full
+condensing boiler that operates with
+category 4 material all the time so I'm
+saying if you get into a near condensing
+situation you want to go with category 4
+as well as a condensing boarder of
+course has to go with category 4 now the
+other thing is certification with these
+materials it's highly recommended by the
+industry not just cleaver Brooks that
+the material be ul certified so with the
+certification in the States its ul 1738
+and in Canada it's u LCS - 636 and as
+you can see in the in the bold letters
+here in the bold type gas temperatures
+not exceeding 550 degrees with a maximum
+rated positive pressure of 15 inches of
+water column that would fall under the
+category UL 1730 1738 and UL cs6
+thirty-six in Canada and this is what
+the label would look like on the
+material on the breaching sections and
+the stacked sections you would find a
+label that looks very very similar to
+this now as far as the materials are
+concerned if we're looking at the
+materials of construction you see that
+they're stainless steel either 301 or
+304 316 or 316 L which is low-carbon and
+also there's an aluminized steel type
+430 the aluminized steel is on the
+outside so we've got a double wall we've
+got the stainless steel comprised of the
+stainless steel material that you see
+here and then we've got the outer wall
+which is an aluminized steel in between
+we have either one or two inches of
+insulation that can either be air or
+mineral fiber wool or ceramic fiber air
+of course would give you the least
+amount of our factor if you will in
+terms of insulating value but of course
+it's less expensive and it's lighter so
+the engineer would be selecting given
+the particular situation that he's
+designing for would be selecting the
+proper material so with this is a bit of
+background what are some of the design
+variables one has to consider when
+laying out a proper boiler exhaust
+system so these now are the design
+variables if we start from the very top
+here this is what the engineer has to
+take in consideration or into
+consideration before they start the
+overall design and calculation what
+about the local codes I mentioned the
+insulating material a lot of times local
+codes will dictate under what
+circumstances certain materials have to
+be used for instance I'm concerned about
+maybe a combustible wall I might be
+running a
+a stacker of breaching through a
+combustible wall I have to take it
+through a chase possibly so the local
+codes become very very important for the
+engineer to make some of the initial
+assumptions or initial criteria through
+which he then is going to lay out the
+entire design the next thing we have to
+look at of course is the type of fuel we
+mentioned that we're going to limit our
+discussion today on natural gas but it
+could be number two oil it could be
+number six oil for goodness sakes but
+natural gas of course is the prevalent
+fuel and of course as you know it's got
+a lot of methane in it and it's it's
+primarily a lot of hydrogen so it's
+going to create a lot of condensate and
+that condensate is going to occur at a
+temperature of about a hundred and
+thirty or 135 degrees so you can have a
+border that's operating at 100 pounds
+pressure which is three hundred and
+thirty-eight degrees but you still could
+get into a situation of that if that
+breaching and stack has not been
+properly designed where even though
+you're coming out of that stack and say
+close to four hundred degrees by the
+time it gets to the stack it could be
+down to dew point and that becomes very
+very important of course if you've got
+an oil fuel that dew points even higher
+you're talking 235 240 degrees with
+number-two oil so that becomes a huge
+consideration the type of fuel I'll be
+burning what's the flue gas temperature
+as I mentioned becomes important what
+about the appliance category so now that
+I've got all of this I know the type of
+fuel I know what the flue gas
+temperature is going to be now I can
+begin to make decisions on the category
+that I'm going to be using as far as my
+stack material is concerned is a
+category three or will it be category
+four if I'm near condensing I'll go with
+category four what about the altitude
+what's the altitude going to do for me
+well as we go up in elevation of course
+the air becomes what less dense right so
+this impacts my pressure density
+differential in the ability of my stack
+to pull the proper negative if you will
+and be able to vent properly so altitude
+is a huge concern as well if I'm at sea
+level I don't
+worry about it but if I'm in Denver it's
+a major concern and what about the flue
+gas velocity of course this has to do
+with temperature and mass flow so how
+many borders do I have connected to that
+breaching and how much mass flow do I
+have what's the diameter of the
+breaching what is the velocity going to
+be this then of course also gets when I
+start knowing what the velocity and mass
+flow are and then the velocity I can
+begin to calculate the resistance to
+flow the pressure drop the other thing
+is this the summer versus winter you
+know I've got situations where the
+border might draft very very where this
+the stack and breaching will drop well
+let's say in the winter time but in the
+summertime when I lose my temperature
+delta T it doesn't do very well and the
+relative relative humidity goes up so I
+got to take these things into
+consideration too what about size making
+wind loads stack and breaching diameter
+height and length now I begin to
+calculate that and then I have to also
+when I'm doing that and I'm laying it
+out I have to think about other things
+like where are the flow restrictions do
+I have tees and elbows what about whys
+and dampers and reducers these will all
+affect the resistance to flow and
+increase the pressure drop and speaking
+about wise well here's a good example
+I'm coming out of this boiler and coming
+into the stack but notice I don't
+bullhead into it I don't just key into
+it I use a Y to sweep the products of
+combustion into the stack try to impede
+the resistance to flow as much as I
+possibly can now here's another example
+of a wide connection but in this
+particular case I've got a condensing
+boiler I'm coming from the border into
+my common breaching but I do it with a Y
+so I sweep into it I don't impede flow
+and then go into an insulated chase
+between the walls and up through up
+through the roof and outside and of
+course as you can see this particular
+stack and breaching material is a
+category for full condensing now I would
+be remiss if I didn't mention
+this at this particular time there are
+differences out there in terms of design
+various manufacturers we all build
+basically the same thing but the way the
+the stack and breaching go together
+there are differences there there are
+some people that use a just a flange
+where you you take the two sections
+together you in the the flanges then but
+together you seal and band them in this
+particular case it's a male-female
+connection why does that help it helps
+in the overall assembly it reduces the
+amount of time it takes to put these
+sections together so when you're when
+you're choosing these materials look at
+the manufacturer and how they go
+together how does how are these stack
+and breaching sections designed are they
+butted flanges or are they male/female
+connections which in fact could save
+some labour out there in the field now
+we get into some of these draft
+conditions that vary in this particular
+case what I have is I've got a I've got
+a high stack and that's all I'm not
+concerning myself with anything other
+than a trade stack draft that might vary
+based on the season in the winter time I
+may have more draft than I do in the
+summer time and so what I've got is a
+mechanical damper here that I can set so
+I know that when I modulate that burner
+from low to high fire I've got just the
+amount of resistance either I increase
+the resistance or I decrease the
+resistance to be able to handle that
+particular draft situation throughout
+the firing rate during that season I
+might have to adjust it in the winter or
+I may have to adjust it again in the
+summer but it's just a mechanical damper
+so sometimes those are used other times
+where the variation could be quite
+extreme and it's impacted by velocity
+outside and you know wind velocities
+down drafts varying temperatures
+barometric pressures and so on where I
+really get a lot of variance then I may
+want to go
+with an automatic stack damper that you
+see right here that's tied into a
+pressure sensor that then is measuring
+the amount of negative or positive we
+meant within that stack and then
+adjusting automatically the damper to
+suit that variance now in some cases
+especially where I've got a retrofit and
+I've added a couple of boilers
+I kept the existing breaching I don't
+have money to to add any more to it I
+know I can make this thing work if I put
+in an induced draught fan and those
+induced draught fans can either be
+mounted in the vertical stack as you see
+here or they could be mounted in the
+horizontal and thereby overcome the
+resistance to flow
+mechanically driving those products of
+combustion to the stack and up and out
+so that might be another thing the other
+thing that we we run into often with
+stack and reaching our low budget
+situations where a boiler has been added
+and they want to use the existing stack
+and this could be a total retrofit maybe
+was an old coal-fired plant the border
+came out and new borders went in the
+budget as I said is a problem they want
+to use the existing chimney well we're
+going to have problems of that existing
+chimney if we don't take some
+precautionary action here and that would
+be with a stack liner so rather than
+going with a separate stack as you see
+here on the Left we're going to use that
+existing chimney and do what we can with
+it so we're going to run a liner in
+there so we will keep it from the
+products of combustion from condensing
+and degrading the masonry and still bent
+properly as though we were taking those
+products of combustion into a brand new
+stack so when everything is all said and
+done you've got that liner coming
+through the chimney and up and out to
+the atmosphere as you see here now for
+those in the United States
+sir in the UL if you else are in the
+u.s. I should say it's ul 1777 would be
+the the ul certification number and in
+Canada it's you LCS 6:35 for those liner
+materials and of course we're looking at
+in those particular situations that are
+certified by ul we're looking at
+temperatures that would not exceed 570
+degrees so with that then is a bit of
+background I thought it would be a good
+idea at this point to have my associate
+here Chuck Zinda take us through a
+couple of scenarios and you know what he
+goes through when he's properly
+engineering and designing a stack and
+breeching layout so Chuck all right
+thanks Steve the first time the first
+project and we're looking at is a new
+multi-story manufacturing in solutions
+to four straps orders and the mechanics
+as depicted in this engineers drawing
+that was submitted for bid these borders
+are firing natural gas operating at 100
+psi with a projected stack temperature
+of 360 degrees Fahrenheit the boilers
+will operate in a fully modulating lead
+lag setup with one or both boilers
+firing at the same time depending on the
+production load looking at the elevation
+view in the middle of the drawing you'll
+see that the engineer are shown one
+boiler connecting to the chimney with a
+90 degree T and the second boiler
+entering the chimney just above the
+first boiler connection with a 45 degree
+Y connection our factory engineers a
+draft calculation on all quote requests
+that we received which we'll see in the
+next slide here I've highlighted that in
+the draft calculation
+the 90 degree degree key connection that
+was designed that was shown in the
+design engineers drawing which gives us
+a veil abode raft down here at the
+bottom we show the available draught
+calculated at a positive point zero zero
+six inches water column now it's pretty
+small amount above zero but still our
+calculation calculation is showing that
+as a too small of a diameter so we want
+to aid in the evacuation of the exhaust
+gases so we're going to size the
+breaching and chimney to achieve a
+slight negative draft at the boiler
+exhaust outlet in this case we have a
+slight positive so we're going to take a
+look at this again and see what else we
+can come up with a positive draft
+available could cause a buildup of back
+pressure at the entrance to the chimney
+causing burner combustion issues
+resulting in potential boiler heat
+transfer issues that Steve had
+previously discussed now using the draft
+calculation that we just performed as a
+starting point we're going to consider
+changing that that 90 degree T in the
+original engineers layout to a 45 degree
+why we're showing here at the bottom
+running the new calculation based on
+that you'll notice that we've taken out
+the 90 degree T connection we've
+replaced that with a 45 degree T
+connection and the resulting draft
+calculation shows us with that negative
+point zero five three inches water
+column which is what we're looking for
+and our draft calculation says okay so
+that was just all we needed to do on
+this particular application and we came
+up with a solution to that problem this
+45 degree Y offers a more laminar flow
+to the exhaust gas whether one or both
+the boilers are operating
+in our next application the project
+we're looking at which just came in to
+us recently is a boiler replacement in
+an existing facility two older
+non-condensing steel boilers are being
+replaced with two condensing boilers
+utilizing the existing chimney chase the
+last boiler in line is 30 feet from the
+chimney with a straight breaching run
+combining both boilers these are heating
+boilers firing natural gas with a low
+return water temperature resulting in a
+lower stack temperature approximately
+200 degrees Fahrenheit as shown in a
+previous slide by Steve a common
+misperception is to size the breaching
+diameter the same size as the boiler gas
+outlet the border exhaust gas outlet for
+the entire run from both boilers to the
+chimney we're going to take a look at a
+draft calculation using that single size
+diameter breaching now I've highlighted
+a spot here in the draft calc where we
+did not include an increase or which we
+would normally consider but we're going
+to go with the example we talked about
+is using a same size diameter breaching
+which is a 12 inch for the boiler
+exhaust fitting showing us that we're
+going to have an available draft of a
+positive point 1 1 6 inches water column
+again the calculation is telling us it's
+too small of a diameter this confirms
+Steve's earlier discussions about not
+considering the increase in mass flow
+when adding a second boiler to the
+exhaust system resulting in back
+pressure increases and poor burner
+operations including pilot failures for
+the downstream boiler the condensing
+style boilers are more susceptible to
+these pressure fluctuations if we
+consider an increase or in the breaching
+as shown here in this elevation view at
+the point of entry of the second boiler
+exhaust we have now increased the
+cross-sectional area of the breaching to
+handle that increase in
+s vol now let's take a look at that
+revised draft calculation here I've
+highlighted the fact that we've put an
+increase or into our calculations into
+the flu or breaching run and our flu
+diameters 18 inches at with both boilers
+as shown here resulting in an available
+draft of negative point zero seven zero
+inches water column which is what we're
+looking for which gives us the okay sign
+that we've got an acceptable draft for
+these boilers to operate Steve these are
+just two examples of the design issues
+that our factory engineers see on a
+daily basis they review all of the
+exhaust system requests that we receive
+for proper design and they perform draft
+calculations to ensure that the boiler
+and exhaust system operates efficiently
+okay well thank you chuck very much I
+appreciate that let's sev in summary
+let's let's what are the takeaways from
+what we've talked about so far this
+afternoon the main point I would like to
+get across or points I'd like to get
+across as are exactly what I hear on the
+screen right now that an exhaust system
+is an integral part of the overall
+boiler operating system if you will it's
+just as important as anything else on
+that border or anything else in that
+boiler room it's part of the system and
+of course improper exhausting can lead
+to expensive results not just additional
+fuel but maintenance downtime and so on
+so keeping these things in mind when a
+boiler is added or when new borders are
+being installed another ones being but
+let's say replace like I mentioned
+before an old coal-fired plant being
+replaced with gas or oil fired boilers
+these the exhausting the venting of
+these new borders becomes very very
+important especially if the existing
+stack or chimney is being used
+ventilation air very very important that
+ventilation air be
+be part of this and let me just give you
+an example in the very beginning we have
+to make sure that the the border room
+itself has got enough ventilation air
+and what we use as a rule of thumb is
+ten CFM per border horsepower h CFM for
+combustion and two for ventilation not
+to keep you comfortable but to make sure
+that that room does not go negative okay
+or does not go positive I should say we
+want to make sure that we do not go
+positive in the boiler room itself
+okay now the the other problem that we
+have is so we've got 10 CFM for boiler
+horsepower now how does that equate to
+the proper cross-sectional area for
+ventilation if you take a 300 horsepower
+border if we add 10 CFM for boiler
+horsepower that's 3000 right so we've
+got a total of 3000 cubic feet divide
+that if you've got a ceiling that is 7
+feet or lower let's say 7 feet you
+divide that by 250 by 250 and that will
+give you the cross sectional area that
+you need to properly vent that boiler
+room if the ceiling is higher than 7
+feet then you divide by 500 so you take
+that 3000 divided by 500 that would give
+you the cross-sectional area for
+ventilation and combustion air so these
+are the things one must understand the
+very old the variables before laying out
+a stack and breaching system obviously
+the proper material selection based on
+the category becomes important we went
+through those today
+category you know we stress category 3 &
+4 but of course you may get involved
+with categories 1 & 2 as well with
+atmospheric gas fired appliances or
+that could you know become positive in
+that breaching or stack in which case it
+would be a category two so in the last
+thing of course stack and breaching
+designs vary and one must be aware of
+those systems which not only provide the
+solution for the conditions but
+installation savings as well so there's
+there's differences out there relative
+to how these stack materials go together
+that can certainly impact the overall
+installation cost so I think those are
+the takeaways if we take a look at those
+six bullets if you've got nothing more
+out of this webinar today then taking
+those back with you
+I think you've accomplished a lot in
+rehab as well so with that I'll open it
+up to questions thank you Steve and
+thank you Chuck very much at this time
+if you would like to ask Steve or Chuck
+a question please present it in the Q&A
+tool of the WebEx control panel and if
+you would make sure that it is that you
+select all panelists so that we're in
+different areas and we can each see what
+the question is and we can get it
+answered appropriately while we're
+waiting for those questions to come in I
+just want to reiterate that today's
+presentation will be archived and
+located on the cleaver Brookes website
+you can see today's presentation and
+it's full audio and video and you can
+also download a PDF of the slide
+presentation today frustration is one of
+the ones that we've had in previous
+month next month our topic will be the
+right Buller for the application we'll
+look at the different types of
+applications and then give an
+application what are the issues that you
+might incur encounter during the
+decision-making process and then what
+type Bowler types best address those
+issues if you'd like a little additional
+information on next month's topic be
+sure to visit the website at cleaver
+Swisscom forward slash webinars and with
+that we do have a couple of questions
+that are already in so I'm going to just
+let you volley it back and forth Chuck
+and Steve as as you see fit one of the
+first questions we received earlier in
+the presentation was what types of
+problem
+arise with common stacks serving
+multiple while our common stack serving
+multiple bowlers that is sized for full
+installed capacity is there a
+recommended minimum turndown as a
+percent of install or capacity to ensure
+proper Draft at all times well let me
+take a whack at that first Chuck if I
+might if you've got a number of orders
+connected to a common breaching and
+stack you're going to have to make sure
+that the it has been designed to be able
+to handle the maximum so it would be the
+maximum turndown in other words each one
+of those is going to have to be sized as
+though they are all operating at 100%
+capacity otherwise you're going to get
+into problems meant in this in that
+particular situation you could also get
+into an oversize condition where maybe
+those dampers that we talked about the
+automatic damper would be sensing the
+excess of negative pole within the
+breaching and stack and as a result
+would begin to pinch off and increase
+the resistance because you know with
+these which what you're looking at is
+either zero zero draft at the bent stub
+or slightly negative that's what that's
+the ideal condition that Chuck was was
+actually driving at when he was going
+through those two scenarios now there
+are some border manufacturers that can
+based on the border burner package you
+can tolerate plus or minus a quarter
+inch plus or minus a half inch but that
+depends upon the manufacturer so it'd be
+a good idea for the engineer who's ever
+involved in laying out that stack and
+breaching arrangement that they
+understand what border is being
+connected to it they contact the
+manufacturer and ask whether or not they
+can
+under what conditions they can operate
+without adversely affecting combustion
+okay thanks Steve and if there's
+information that is needed in addition
+to that there is a number on at the end
+of the PowerPoint there's a slide for
+more for additional information so you
+can feel free to call Chuck did the
+email him or give him a phone phone call
+next question we have do all stacks have
+to be double wall and I kind of long
+with that is the exterior on double wall
+stacks available in one of the stainless
+steel grades and then again please could
+you repeat that yes the material do all
+do all stacks has to be double wall and
+along with that is the exterior on
+double wall stacks available in one of
+the stainless steel grates oh they don't
+they don't have to be double wall it's a
+kind of a protection issue insulating
+issue you know if it's going through a
+wall or a roof section we've provided
+many single wall stacks as far as
+stainless it is available for the
+exterior wall for the outer wall and 304
+316 a number of different materials
+we've selected aluminized steel as kind
+of a standard it's a cost issue mostly
+it's a cost issue but we've provided
+aluminized steel on the interior section
+of the stack and and stainless steel on
+the outer the exterior that's exposed to
+the atmosphere
+okay next question you mentioned suiting
+of the bowler heat transfer services
+called an efficiency loss how much soot
+to equal a one percent loss in
+efficiency well I can handle that one
+Chuck I think if you're looking at let's
+say anywhere from US sixteenth of an
+inch to an eighth of an inch of soot on
+the heat transfer surface of the boiler
+you're going to see some elevated
+temperatures you're going to see the
+temperature of that stack rise quite
+predominantly and - exactly you know
+what is going to equate to the is it
+going to go up 40 degrees from the bench
+mark maybe in which case it's a 1
+percent loss so you're going to see a
+dramatic increase when you see so that
+is let's say a sixteenth of an inch to
+an eighth of an entry of dramatic
+increase in temperature and for every 40
+degrees over the bench mark you're going
+to lose a percent of fuel efficiency all
+right next question
+okay there's understanding of the need
+for adequate combustion air but how do
+you calculate the free area how do you
+handle cold air temperatures entering
+the blower room well as I mentioned
+before as far as the free area is
+concerned you use 10 CFM per boarder
+horsepower and depending upon the height
+of the ceiling in the boiler room itself
+7 feet you would divide by 250 if it's
+over 7 feet you divide by 500 and that
+would give you the cross sectional area
+you would then divide that in half and
+put 1/2 of that opening on one side of
+the border room and 1/2 on the other 7
+feet or lower now if it's cold
+temperatures and you've got this this
+open area let's say it's louvered you
+can have you can have dampers put on
+there that are tied into the control
+circuit of the boiler or boilers
+and would only power open under those
+conditions when the borders are firing
+and then would would drive shut when the
+borders are down of course and the
+borders are firing it's going to warm up
+that border room considerably and
+normally if you're talking temperatures
+outside of 10 15 degrees 20 degrees
+something like that it doesn't really
+cause a problem when you get into some
+real cold temperatures say northern
+Canada or even here in the states and
+the lower 48 or 50 you you're going to
+be get into certain situations where
+it's really really cold in that case
+you're going to have to probably think
+about you know air heaters or electric
+resistance something to heat that air
+before it comes in
+okay Steve what about how to sealed
+combustion factor into the resolve
+calculations you want to take that chunk
+sealed combustion and you in in sealed
+combustion of course what you've got is
+you've got air being ducted into the
+burner itself and then you've got your
+your stack your your event going out in
+a separate system many times that that
+ducted air as far as secondary air for
+combustion it's PVC pipe you want to
+comment on that at all not sure how I
+can answer that one if the question is
+is what about the combustion air ducting
+you mean how does it affect the
+operation yeah I mean you've got to
+calculate that as well in that one I'm
+not sure how to answer that one in
+particular I mean are you are you going
+through the calculations on the on the
+air coming in the secondary air coming
+in for combustion obviously there's
+resistance to flow there so you're going
+to have to calculate the diameter of
+that of that of the of the dust and air
+duct so that was a right adequate air
+right yeah and then obviously the the
+way the
+the way the vent would be calculated
+would be the same as as though it was
+not sealed combustion I'm talking now
+about the vent pray outside correct so
+yes to answer the the questioners
+question definitely the the calculations
+for ducting the secondary air supply for
+combustion would be very similar to that
+which is used for the venting of the
+combustion air after a post combustion
+okay and as I stated earlier if there's
+additional information needed feel free
+to email those questions to chuck and we
+can distribute them through the company
+to the best person to be able to answer
+those questions for you
+next question when would a mechanical
+damper be added to an exhaust system
+well we add the mechanical damper to
+control the gas flow to give us the to
+give us the correct amount a second here
+to give us the correct draft if we have
+too much draft we're going to want a
+mechanical damper to control that to
+control the flow and and the draft out
+of there so we we can put them in you
+could put either a mechanical open
+closed and then be able to adjust or you
+can put an automatic draft damper in to
+control it to the preset a little more
+precise especially if you have more than
+one boiler involved we do that quite
+often each each application has to be
+looked at individually okay in the
+scenarios that you gave Chuck on I see
+both example showed an open chimney top
+the question is what happens when it
+rains
+well what when it ranged what we do in
+this part in these particular cases we
+didn't have a cover on it
+the inner wall is stainless steel so
+corrosion won't be a major factor in
+that but both systems that we show also
+have drain tees installed at the bottom
+of the stack for drainage of any
+condensate or rain that may collect in
+the stack all right and let's see we are
+have time for just a couple more
+questions can you recommend a good draft
+inducer manufacturer well I can take
+that yes a couple that I've come across
+throughout the years exhaust Oh makes an
+excellent induced draft fan that can and
+most of the exhaust those that I've seen
+amount in the vertical oftentimes right
+on top of the stack the other company
+that I've had a good experience with is
+turn hland t ju r and l UND churn 'land
+and i've seen those in the horizontal
+breaching but i think they also make a
+vertical appliance okay um next question
+with a forced draft bowler burner
+combination how do you know what is the
+correct pressure within the stack plus
+or minus for the bowler to operate
+efficiently that's a excellent question
+and that's kind of what gets back to
+what I was mentioning before but what I
+would suggest that the person do that's
+getting involved with the stack and
+breaching layout and design contact that
+border manufacturer find out what they
+can live with with that particular model
+in a burner boiler combination like for
+instance with cleaver Brooks and our
+fire tube boilers we can we can you know
+withstand plus or minus depending upon
+the model plus or minus anywhere from a
+quart
+wrench to a half-inch of variance and
+stack pressure without adversely
+affecting the burner and combustion
+there might be other people out there
+that say look I've got to have zero and
+that's it
+zero what the vent stomach you give me
+any variation I'm going to have problems
+well that's fine then we just design
+around it and if it didn't that means
+that we've got to go to an induced
+draught fan or we've got to do something
+to enlarge the breaching or do something
+with the resistance in terms of avoiding
+the teas and going into y-type
+connections whatever we can do in the
+most economical way to give that border
+what it needs in terms of draught is
+what we have to do Steve this question
+comes in would you suggest adding a
+motorized damper at the exit of a
+spoiler no I think that not just as a
+carte blanche statement no I think that
+the situation has to dictate the expense
+don't do anything you don't have to do
+if you get into a situation where you've
+got a lot of variances as I mentioned
+before caused by down drafts or vault
+wind velocities or ambient temperatures
+whatever it might be then it may be
+prudent to take that step in and invest
+in a induced draft system or an
+automatic dampering system or whatever
+but if you've got pretty good assurance
+that the conditions are fairly stable
+and then it's just a matter of properly
+calculating the breaching and stack
+diameters and lengths in order to be
+able to you know accommodate the proper
+draft my counselors don't spend anything
+you don't have to okay I know that we
+have a good many questions that have not
+been answered as of yet don't fret
+we have a copy of the questions and we
+will be sure that we get you an answer
+or contact you directly either by the
+information that you submitted via email
+or telephone call so go ahead and if you
+still like to submit a question go ahead
+and do that and what will
+who is will make sure that it is
+answered and getting gotten back to you
+in a timely fashion again look for next
+month's topic on our webpage cleaver
+books comm forward slash webinars get a
+copy of today's presentation voice and
+audio plus a copy of a PDF that you can
+use if you did not indicate that you
+wanted a certificate of attendance
+please do so through the survey that is
+automatically sent to you as you exit
+out of WebEx and we'll be sure that you
+get your certificate at this time we are
+only giving certificates for the live
+events and not for any archived events
+or events that are if you should go on
+there and view at a later date you
+should receive their certificates
+between two to five business days but if
+you don't receive it end and there is a
+email address that you'll be able to
+contact us I appreciate everybody's time
+Thank You Chuck thank you Steve for a
+good webinar and we will see you guys
+next month on the 29th I believes is
+when we are giving the next presentation
+your closing comment Steve no that's it
+thank you all again for for joining us
+we really appreciate doing this we
+appreciate your attendance all right
+thank you so much Kevin right hey do
+you

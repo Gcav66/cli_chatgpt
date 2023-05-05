@@ -1,0 +1,11 @@
+openai
+langchain
+chromadb
+pypdf
+tiktoken
+youtube-transcript-api
+pytube
+python-dotenv
+streamlit_chat
+streamlit
+
