@@ -1,4 +1,5 @@
 import os
+import sys
 from dotenv import load_dotenv
 
 import streamlit as st # import the Streamlit library
@@ -11,11 +12,26 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
 
 
+if str(sys.argv[1]) == "cro":
+    from chat_prompts.cro import ST_TITLE, PLACEHOLDER_Q
+if str(sys.argv[1]) == "bhf":
+    from chat_prompts.bhf import ST_TITLE, PLACEHOLDER_Q
+if str(sys.argv[1]) == "ciena":
+    from chat_prompts.ciena import ST_TITLE, PLACEHOLDER_Q
+if str(sys.argv[1]) == "transpo":
+    from chat_prompts.transpo import ST_TITLE, PLACEHOLDER_Q
+if str(sys.argv[1]) == "alb":
+    from chat_prompts.alb import ST_TITLE, PLACEHOLDER_Q
+if str(sys.argv[1]) == "spar":
+    from chat_prompts.spar import ST_TITLE, PLACEHOLDER_Q
+
 
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 # Set the title of the Streamlit app
-st.title("💰 Dataiku Document Search: LLM On Your Data")
+
+#st.title("💰 Dataiku Document Search: LLM On Your Data")
+st.title("💰 Dataiku Document Search: LLM On " + ST_TITLE +" Data")
 
 # Add a link to the Github repository that inspired this app
 st.markdown("Learn more about [Dataiku](https://www.dataiku.com/)")
@@ -30,7 +46,8 @@ else:
 # Add a text input box for the user's question
 user_question = st.text_input(
     "Enter Your Question : ",
-    placeholder = "What is Force Management?",
+    #placeholder = "What are Cell and Gene Therapies?",
+    placeholder = PLACEHOLDER_Q,
 )
 
 # Generating the final answer to the user's question using all the chains
